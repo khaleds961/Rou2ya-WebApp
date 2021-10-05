@@ -1,0 +1,22 @@
+.information{
+    float: right;
+    display: flex;
+}
+#outside{
+    margin: 15px;
+    padding:0;
+    border: 2px solid #33808a;
+    outline:none;
+}
+
+#pickdate{
+    margin: 15px;
+    padding: 10px;
+    color: black;
+    height: 33px;
+    font-size: 18px;
+}
+
+.tests{
+    margin-top: 10px;
+}

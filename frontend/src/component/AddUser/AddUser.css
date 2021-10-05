@@ -1,0 +1,23 @@
+label{
+    font-size: 18px;
+    float: right;
+    margin-bottom: 15px;
+}
+
+input[type=text],input[type=password],input[type=tel]{
+    height: 30px;
+    text-align: right;
+}
+
+#outline{
+    margin: 15px;
+    padding:0;
+    border: 2px solid #33808a;
+    outline:none;
+}
+
+.headers{
+    margin-top:15px ;
+    padding-bottom: 15px;
+    border-bottom: 2px solid #33808a;
+}

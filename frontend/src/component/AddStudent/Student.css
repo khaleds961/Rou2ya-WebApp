@@ -1,0 +1,30 @@
+.courseStudentPopUp{
+    position: absolute;
+    top: 50%;
+    right: 50%;
+    transform: translate(50%, -50%);
+}
+
+.selectCoursepopup{
+    margin: auto;
+}
+
+.coursbuttonpopup{
+    margin: auto;
+    margin-top: 15px;
+    
+}
+
+#box{
+    margin: 15px;
+    padding:0;
+    border: 2px solid #33808a;
+    outline:none;
+    color: grey;
+}
+
+input[type=time],input[type=date],input[type=tel]{
+    height: 30px;
+    text-align: right;
+}
+
